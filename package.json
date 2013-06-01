@@ -1,0 +1,27 @@
+{
+    "name": "filtro-facebook",
+    "description": "Return Facebook tags",
+    "version": "0.0.1",
+    "homepage": "http://github.com/felquis/filtro-facebook",
+    "author": {
+        "name": "Ofelquis Gimenes",
+        "email": "ofelquis@hotmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "http://github.com/felquis/filtro-facebook"
+    },
+    "main": "./bin/filtro.js",
+    "engines": {
+        "node": ">= 0.10.x"
+    },
+    "dependencies": {},
+    "keywords": [
+        "url",
+        "facebook",
+        "content",
+        "tags",
+        "html",
+        "filtro"
+    ]
+}

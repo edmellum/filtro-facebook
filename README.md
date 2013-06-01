@@ -1,4 +1,6 @@
 filtro-facebook
 ===============
 
-Filtro Facebook
+## Install
+
+`npm install filtro-facebook`
